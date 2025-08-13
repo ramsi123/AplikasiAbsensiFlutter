@@ -10,7 +10,7 @@ Aplikasi Flutter sederhana untuk absensi kehadiran dengan fitur:
 ## Cara Menjalankan
 
 1. Clone Repository  
-git clone https://github.com/username/nama-repo.
+git clone
 
 2. Install Dependency  
 flutter pub get
